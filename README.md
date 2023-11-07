@@ -22,9 +22,9 @@ about different methods to approach data driven problems. Here are a few of the 
   posting, a time line, comments and likes.
 
 <h3>Machine Learning and AI</h3>
+
 - [Minmax Othello](https://github.com/Aristondo01/Reversi_IA.git): I made a minmax algorithm such that an agent could play othello. It went really good, because we won the tournament held at our Artificial Intelligence course in college.
   It beat level 17 out of 30 of the game app [The Othello](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.othello_free&hl=en_US).
- 
 
 <h3>Deep Learning</h3>
 
