@@ -18,13 +18,13 @@ about different methods to approach data driven problems. Here are a few of the 
 
 - [Netflix-like app Repo](https://github.com/Daniel14gonc/api-streaming.git): I built a web application to mimic the way Netflix works in terms of user managment, which included creating accounts and profiles.
   Each profile had a list of liked movies, watched movies and basic recommendations. It was done using Flask, PostgreSQL and React.
-- [Twitter-like app](URL): I built a Twitter clone with different features. The frontend was made with React and the backend with flask and mongodb. It has many features, including account creation, tweet
+- [Twitter-like app](https://github.com/Daniel14gonc/Proyecto1_BD2_API.git): I built a Twitter clone with different features. The frontend was made with React and the backend with flask and mongodb. It has many features, including account creation, tweet
   posting, a time line, comments and likes.
 
 <h3>Machine Learning and AI</h3>
-- [Minmax for Othello](https://github.com/Aristondo01/Reversi_IA.git): I made a minmax algorithm such that an agent could play othello. It went really good, because we won the tournament held at our Artificial Intelligence course in college.
+- [Minmax Othello](https://github.com/Aristondo01/Reversi_IA.git): I made a minmax algorithm such that an agent could play othello. It went really good, because we won the tournament held at our Artificial Intelligence course in college.
   It beat level 17 out of 30 of the game app [The Othello](https://play.google.com/store/apps/details?id=jp.co.unbalance.android.othello_free&hl=en_US).
-- 
+ 
 
 <h3>Deep Learning</h3>
 
