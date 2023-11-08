@@ -20,7 +20,7 @@ about different methods to approach data driven problems. Here are a few of the 
   Each profile had a list of liked movies, watched movies and basic recommendations. It was done using Flask, PostgreSQL and React.
 - [Twitter-like app](https://github.com/Daniel14gonc/Proyecto1_BD2_API.git): I built a Twitter clone with different features. The frontend was made with React and the backend with flask and mongodb. It has many features, including account creation, tweet
   posting, a time line, comments and likes.
-- [Mobile app with CI pipeline](https://github.com/Daniel14gonc/DinnersReady-Api): We built a mobile app which recommended different food recipes. The most important
+- [Mobile app with CI/CD pipeline](https://github.com/Daniel14gonc/DinnersReady-Api): We built a mobile app which recommended different food recipes. The most important
   part of the project was creating a **CI/CD** pipeline with github actions.
 
 <h3>Machine Learning and AI</h3>
