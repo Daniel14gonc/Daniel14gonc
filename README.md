@@ -14,12 +14,14 @@ about different methods to approach data driven problems. Here are a few of the 
 
 <h2>Projects</h2>
 
-<h3>Web</h3>
+<h3>Web and mobile</h3>
 
 - [Netflix-like app Repo](https://github.com/Daniel14gonc/api-streaming.git): I built a web application to mimic the way Netflix works in terms of user managment, which included creating accounts and profiles.
   Each profile had a list of liked movies, watched movies and basic recommendations. It was done using Flask, PostgreSQL and React.
 - [Twitter-like app](https://github.com/Daniel14gonc/Proyecto1_BD2_API.git): I built a Twitter clone with different features. The frontend was made with React and the backend with flask and mongodb. It has many features, including account creation, tweet
   posting, a time line, comments and likes.
+- [Mobile app with CI pipeline](https://github.com/Daniel14gonc/DinnersReady-Api): We built a mobile app which recommended different food recipes. The most important
+  part of the project was creating a **CI** pipeline with github actions.
 
 <h3>Machine Learning and AI</h3>
 
