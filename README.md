@@ -1,5 +1,5 @@
 ## Hi there, I am Daniel Gonzalez 👋
-I am a computer science student at Universidad del Valle in Guatemala, passionate about programming, artificial intelligence and software architecture. I have worked in plenty
+I am a Computer Science Engineer, passionate about programming, artificial intelligence and software architecture. I have worked in plenty
 academic projects and I am currently looking to take some real world challenges to apply my knowledge and learn even more.
 
 <h2>My Skills:</h2>
